@@ -1,0 +1,164 @@
+body{
+  margin: 0;
+}
+
+.top{
+  height: 85vh;
+}
+
+.first{
+  margin-top: 1%;
+position: absolute;
+left: 80%;
+width: 20%;
+}
+
+.image{
+  position: absolute;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+.g{
+  margin-right: 10%;
+}
+
+.I{
+  margin-right: 10%;
+}
+.logo{
+  border-radius: 200px;
+}
+.box{
+  position: absolute;
+    margin-left: 31%;
+    margin-top: 18%;
+    height: 7%;
+    width: 38%;
+    border: 1px solid black;
+    border-radius: 200px;
+    background-image: url("https://img.favpng.com/21/16/13/computer-icons-clip-art-png-favpng-wbjnVTs02TfaR2GUfX04aemZy_t.jpg");
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.input{
+  position: absolute;
+    top: 50%;
+    margin-left: 42%;
+    height: 5vh;
+    /*border: 5px solid red;*/
+    width: 25%;
+}
+
+.google{
+  height: 5vh;
+  background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    /* height: 36px; */
+    /* min-width: 54px; */
+    /* text-align: center; */
+    cursor: pointer;
+    user-select: none;
+}
+
+.lucky{
+  height: 5vh;
+  margin-left: 2%;
+  background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    /* height: 36px; */
+    /* min-width: 54px; */
+    /* text-align: center; */
+    cursor: pointer;
+    user-select: none;
+}
+
+.language{
+  position: absolute;
+    top: 60%;
+    left: 32%;
+    font-size: small;
+    text-align: center;
+    margin-bottom: 20%
+}
+a{
+  color: #1a0dab;
+    text-decoration: none;
+    padding: 0 3px;
+}
+a:hover{
+  text-decoration: underline;
+}
+.last{
+  height: 15vh;
+  background: #f2f2f2;
+}
+.india{
+  padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+}
+.other{
+  margin-top: 1%;
+    padding-right: 20px;
+    position: relative;
+    color: #70757a;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+}
+
+.one{
+  padding-left: 30px;
+}
+
+.two{
+  position: absolute;
+      top: 2%;
+      left: 80%;
+
+}
+
+.about{
+  color: #70757a;
+  padding-right: 20px;
+}
+.ads{
+  color: #70757a;
+    padding-right: 20px;
+}
+.business{
+  color: #70757a;
+    padding-right: 20px;
+}
+.search{
+  color: #70757a;
+    padding-right: 20px;
+}
+.privacy{
+  color: #70757a;
+    padding-right: 20px;
+}
+.terms{
+  color: #70757a;
+    padding-right: 20px;
+}
+.settings{
+  color: #70757a;
+    padding-right: 20px;
+}
